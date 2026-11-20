@@ -4,6 +4,14 @@
         <title>NotchTray</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 20 Nov 2026 23:29:42 +0900</pubDate>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NorthEX3/NotchExtension-releases/releases/download/v1.0-150/NotchTray-1.0-150.dmg" length="2786527" type="application/octet-stream" sparkle:edSignature="dqGbnAkl8hwGFQhVwRDUZjUFiVeoohB74ipoFAqYAxXPOEylqkXFiJDtZw/JEBZ2LwkPjq53CeXoHJ4K/9p+BA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 20 Nov 2026 23:26:29 +0900</pubDate>
             <sparkle:version>149</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NorthEX3/NotchExtension-releases/releases/download/v1.0-145/NotchTray-1.0-145.dmg" length="2786198" type="application/octet-stream" sparkle:edSignature="PLfBpsleWxErE560K0owIJjHA/WPdxlwnh/u63lxjNvamasHGQIlZcrhDJypPphj6ihMaTj6D5MwnMwypB6CAA=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 19 Nov 2026 17:18:14 +0900</pubDate>
-            <sparkle:version>140</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NorthEX3/NotchExtension-releases/releases/download/v1.0-140/NotchTray-1.0-140.dmg" length="2806845" type="application/octet-stream" sparkle:edSignature="dBOv2siAsRFpl/zA17i+EVgW9zxpQUjI3GKvgcndipRwm5WwF1c7lpLamGTgJ1r85jPOVcmG2WALVMcTNeZTCg=="/>
         </item>
     </channel>
 </rss>
