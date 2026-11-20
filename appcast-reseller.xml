@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NotchTray</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 20 Nov 2026 22:43:38 +0900</pubDate>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NorthEX3/NotchExtension-releases/releases/download/v1.0-147-reseller/NotchTray-1.0-147.dmg" length="2785499" type="application/octet-stream" sparkle:edSignature="aDEREV60MLrpATMAp6n9SWjwF7v2awXwufHrOf20ZdLSl7HRiewRlw2DIgQi9Bc0ULw8D4x93XVTd0Pz4cvwAA=="/>
+        </item>
+    </channel>
+</rss>
